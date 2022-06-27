@@ -2,7 +2,7 @@
 
 I'm a developer from Portugal
 
-## 💫 Liitle Bit More About Me
+# 💫 Liitle Bit More About Me
 
 ## 💻 Skills
 <p>
