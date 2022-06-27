@@ -1,6 +1,6 @@
 # Hi there 👋, My name is João Rafael
 
-I'm a developer from Portugsl
+I'm a developer from Portugal
 
 ## 💫 Liitle Bit More About Me
 
