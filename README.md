@@ -1,8 +1,6 @@
-# Hi there 👋, My name is João Rafael
+# Hi there 👋
 
-I'm a developer from Portugal
-
-# 💫 Liitle Bit More About Me
+I'm a Full Stack Engineer from Portugal
 
 ## 💻 Skills
 <p>
