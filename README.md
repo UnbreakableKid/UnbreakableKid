@@ -16,7 +16,6 @@ I'm a Full Stack Engineer from Portugal
 ## 👥 Connect With Me
 <p>
 <a href="https://linkedin.com/in/jo%C3%A3o-rafael-pacheco-7872b01a9/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/@PraiseTheLight"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 
